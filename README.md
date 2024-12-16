@@ -29,6 +29,7 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 </p>
 
 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
