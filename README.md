@@ -18,6 +18,8 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -68,8 +70,9 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 />
 
 <br/>
+<br/>
 
-
+---
 
 ### 📊 Estatísticas
 
