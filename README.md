@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vicente Curi
+# 👨‍💻 Vicente Curi
 
 **`Desenvolvedor FullStack`**
 
