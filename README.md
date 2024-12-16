@@ -19,14 +19,14 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
         />
     </a>
     <!-- Gmail -->
-    <a href="mailto:vicentejosepena@gmail.com" target="_blank">
-        <img 
-            alt="Gmail" 
-            title="Me envie um e-mail" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
+<a href="mailto:vicentejosepena@gmail.com" target="_blank">
+    <img 
+        alt="Gmail" 
+        title="Me envie um e-mail" 
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+</a>
+
 
 ---
 
