@@ -19,7 +19,7 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
         />
     </a>
     <!-- Gmail -->
-<!-- Email como caixa de informação -->
+<!-- Gmail como caixa de informação -->
 <p>
     <img 
         alt="Gmail" 
@@ -27,6 +27,7 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
         src="https://img.shields.io/badge/vicentejosepena%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     />
 </p>
+
 
 
 
