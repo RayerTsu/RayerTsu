@@ -19,17 +19,14 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
         />
     </a>
     <!-- Gmail -->
-<!-- Gmail como caixa de informação -->
+<!-- Gmail como caixa de informação, não clicável -->
 <p>
     <img 
         alt="Gmail" 
-        title="Email"
+        title="Email: vicentejosepena@gmail.com"
         src="https://img.shields.io/badge/vicentejosepena%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     />
 </p>
-
-
-
 
 ---
 
