@@ -27,47 +27,52 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 <img 
     align="left" 
     alt="Python" 
-    title="Python"
+    title="Python - 100%"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+100%
 
 <img 
     align="left" 
     alt="Java" 
-    title="Java"
+    title="Java - 80%"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+80%
 
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="HTML - 100%" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+100%
 
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS"
+    title="CSS - 100%"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+100%
 
 <img 
     align="left" 
     alt="Git" 
-    title="Git"
+    title="Git - 80%"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+80%
 
 <br/>
 <br/>
