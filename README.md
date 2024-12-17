@@ -39,7 +39,7 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
     </td>
     <!-- Tecnologias -->
     <td>
-      <h3>🚀 Tecnologias</h3>
+      <h3>🚀 Experiências</h3>
       <ul>
         <li><strong>CSS:</strong> 100%</li>
         <li><strong>HTML:</strong> 100%</li>
