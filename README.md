@@ -6,6 +6,21 @@ Me chamo Vicente, tenho 19 anos e sou natural de Minas Gerais. Tenho ensino méd
 
 ---
 
+### 📞 Contato
+
+<p align="left">
+    <!-- WhatsApp -->
+    <a href="https://wa.me/5532988400946" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Me chame no WhatsApp" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -81,18 +96,3 @@ Me chamo Vicente, tenho 19 anos e sou natural de Minas Gerais. Tenho ensino méd
     </td>
   </tr>
 </table>
-
----
-
-### 📞 Contato
-
-<p align="left">
-    <!-- WhatsApp -->
-    <a href="https://wa.me/5532988400946" target="_blank">
-        <img 
-            alt="WhatsApp" 
-            title="Me chame no WhatsApp" 
-            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        />
-    </a>
-</p>
