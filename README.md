@@ -22,6 +22,37 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 ---
 
+### 📊 Estatísticas e 🚀 Tecnologias
+
+<table>
+  <tr>
+    <!-- Estatísticas -->
+    <td>
+      <h3>📊 Estatísticas</h3>
+      <ul>
+        <li><strong>Total de Commits:</strong> 36</li>
+        <li><strong>Total de PRs:</strong> 0</li>
+        <li><strong>Total de Issues:</strong> 0</li>
+        <li><strong>Total de Estrelas:</strong> 5</li>
+        <li><strong>Contribuiu (ano):</strong> 0</li>
+      </ul>
+    </td>
+    <!-- Tecnologias -->
+    <td>
+      <h3>🚀 Tecnologias</h3>
+      <ul>
+        <li><strong>CSS:</strong> 100%</li>
+        <li><strong>HTML:</strong> 100%</li>
+        <li><strong>Python:</strong> 100%</li>
+        <li><strong>Java:</strong> 70%</li>
+        <li><strong>Git:</strong> 85%</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -67,27 +98,3 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas
-
-| **Categoria**        | **Valores**           |
-|-----------------------|-----------------------|
-| **Total de Commits**  | 36                   |
-| **Total de PRs**      | 0                    |
-| **Total de Issues**   | 0                    |
-| **Estrelas**          | 0                    |
-| **Contribuiu (ano)**  | 0                    |
-
----
-
-### 🚀 Tecnologias
-
-| **Tecnologia**        | **Porcentagem**       |
-|------------------------|-----------------------|
-| **CSS**               | 100%                 |
-| **HTML**              | 100%                 |
-| **Python**            | 100%                 |
-| **Java**              | 80%                  |
-| **Git**               | 80%                  |
