@@ -72,14 +72,22 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 ### 📊 Estatísticas
 
-<div align="center">
-    <img 
-        alt="Estatísticas Vicente Curi" 
-        src="https://github-readme-stats.vercel.app/api?username=vicentecuri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-    />
-    <br/>
-    <img 
-        alt="Tecnologias Vicente Curi" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentecuri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-    />
-</div>
+| **Categoria**        | **Valores**           |
+|-----------------------|-----------------------|
+| **Total de Commits**  | 36                   |
+| **Total de PRs**      | 0                    |
+| **Total de Issues**   | 0                    |
+| **Estrelas**          | 0                    |
+| **Contribuiu (ano)**  | 0                    |
+
+---
+
+### 🚀 Tecnologias
+
+| **Tecnologia**        | **Porcentagem**       |
+|------------------------|-----------------------|
+| **CSS**               | 100%                 |
+| **HTML**              | 100%                 |
+| **Python**            | 100%                 |
+| **Java**              | 80%                  |
+| **Git**               | 80%                  |
