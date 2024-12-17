@@ -22,13 +22,13 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 ---
 
-### 📊 Estatísticas e 🚀 Tecnologias
+### 📊 Atributos
 
 <table>
   <tr>
     <!-- Estatísticas -->
     <td>
-      <h3>📊 Estatísticas</h3>
+      <h3>🚀 Estatísticas</h3>
       <ul>
         <li><strong>Total de Commits:</strong> 36</li>
         <li><strong>Total de PRs:</strong> 0</li>
