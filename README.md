@@ -1,4 +1,4 @@
-# 👨‍💻 Vicente Curi
+# :man_technologist: Vicente Curi
 
 **Desenvolvedor FullStack**
 
@@ -7,7 +7,7 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 ---
 
-### 📞 Contato
+### :telephone_receiver: Contato
 
 <p align="left">
     <!-- WhatsApp -->
@@ -22,64 +22,59 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### :robot: Linguagens e Tecnologias
 
 <img 
     align="left" 
     alt="Python" 
-    title="Python - 100%"
+    title="Python"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-100%
 
 <img 
     align="left" 
     alt="Java" 
-    title="Java - 80%"
+    title="Java"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-80%
 
 <img 
     align="left" 
     alt="HTML"
-    title="HTML - 100%" 
+    title="HTML" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-100%
 
 <img 
     align="left" 
     alt="CSS" 
-    title="CSS - 100%"
+    title="CSS"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-100%
 
 <img 
     align="left" 
     alt="Git" 
-    title="Git - 80%"
+    title="Git"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-80%
 
 <br/>
 <br/>
 
 ---
 
-### 📊 Estatísticas
+### :bar_chart: Estatísticas
 
 <p>
   <img 
