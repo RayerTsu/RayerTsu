@@ -8,53 +8,58 @@ Me chamo Vicente, tenho 19 anos e sou natural de Minas Gerais. Tenho ensino méd
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-    <img 
-        alt="Python" 
-        title="Python"
-        width="50px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-        style="margin: 10px;"
-    />
-    <img 
-        alt="Java" 
-        title="Java"
-        width="50px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-        style="margin: 10px;"
-    />
-    <img 
-        alt="HTML"
-        title="HTML" 
-        width="50px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-        style="margin: 10px;"
-    />
-    <img 
-        alt="CSS" 
-        title="CSS"
-        width="50px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-        style="margin: 10px;"
-    />
-    <img 
-        alt="Git" 
-        title="Git"
-        width="50px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-        style="margin: 10px;"
-    />
-</p>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/><br/>
 
 ---
 
 ### 📊 Atributos
 
-<table align="center" style="border: 1px solid #444; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+<table>
   <tr>
     <!-- Estatísticas -->
-    <td style="padding: 15px; border-right: 1px solid #444; text-align: left;">
-      <h3 style="color: #FF6347;">🚀 Estatísticas</h3>
+    <td style="padding: 10px; border-right: 1px solid #444; text-align: left;">
+      <h3>🚀 Estatísticas</h3>
       <ul>
         <li><strong>Total de Commits:</strong> 36</li>
         <li><strong>Total de PRs:</strong> 0</li>
@@ -64,8 +69,8 @@ Me chamo Vicente, tenho 19 anos e sou natural de Minas Gerais. Tenho ensino méd
       </ul>
     </td>
     <!-- Experiências -->
-    <td style="padding: 15px; text-align: left;">
-      <h3 style="color: #4682B4;">🚀 Experiências</h3>
+    <td style="padding: 10px; text-align: left;">
+      <h3>🚀 Experiências</h3>
       <ul>
         <li><strong>CSS:</strong> 100%</li>
         <li><strong>HTML:</strong> 100%</li>
