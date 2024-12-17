@@ -1,4 +1,4 @@
-# :man_technologist: Vicente Curi
+# 👨‍💻 Vicente Curi
 
 **Desenvolvedor FullStack**
 
@@ -7,7 +7,7 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 ---
 
-### :telephone_receiver: Contato
+### 📞 Contato
 
 <p align="left">
     <!-- WhatsApp -->
@@ -22,7 +22,7 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 ---
 
-### :robot: Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -32,7 +32,6 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Java" 
@@ -41,7 +40,6 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
 <img 
     align="left" 
     alt="HTML"
@@ -50,7 +48,6 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
 <img 
     align="left" 
     alt="CSS" 
@@ -59,7 +56,6 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -74,21 +70,16 @@ contente por fazer aquilo que gosto e transformar este hobbie em profissão.
 
 ---
 
-### :bar_chart: Estatísticas
+### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vicentecuri&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentecuri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<div align="center">
+    <img 
+        alt="Estatísticas Vicente Curi" 
+        src="https://github-readme-stats.vercel.app/api?username=vicentecuri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+    />
+    <br/>
+    <img 
+        alt="Tecnologias Vicente Curi" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentecuri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    />
+</div>
