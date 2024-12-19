@@ -68,39 +68,24 @@ Me chamo Vicente, tenho 19 anos e sou natural de Minas Gerais. Tenho ensino méd
 
 ---
 
-<div>
-  <h4>Estatísticas do GitHub de Curi</h4>
-  <div style="display: flex; flex-direction: column; gap: 10px; background-color: #2d2d2d; padding: 15px; border-radius: 8px; width: 400px; color: #f78c6c;">
-    <div>
-      <p style="margin: 0; font-weight: bold;">CSS <span style="float: right;">100%</span></p>
-      <div style="background-color: #444; border-radius: 5px; height: 10px; width: 100%; position: relative; overflow: hidden;">
-        <div style="background-color: #ff79c6; height: 100%; width: 120%;"></div>
-      </div>
-    </div>
-    <div>
-      <p style="margin: 0; font-weight: bold;">Python <span style="float: right;">90%</span></p>
-      <div style="background-color: #444; border-radius: 5px; height: 10px; width: 100%; position: relative; overflow: hidden;">
-        <div style="background-color: #bd93f9; height: 100%; width: 90%;"></div>
-      </div>
-    </div>
-    <div>
-      <p style="margin: 0; font-weight: bold;">Java <span style="float: right;">70%</span></p>
-      <div style="background-color: #444; border-radius: 5px; height: 10px; width: 100%; position: relative; overflow: hidden;">
-        <div style="background-color: #50fa7b; height: 100%; width: 70%;"></div>
-      </div>
-    </div>
-    <div>
-      <p style="margin: 0; font-weight: bold;">HTML <span style="float: right;">100%</span></p>
-      <div style="background-color: #444; border-radius: 5px; height: 10px; width: 100%; position: relative; overflow: hidden;">
-        <div style="background-color: #f1fa8c; height: 100%; width: 150%;"></div>
-      </div>
-    </div>
-    <div>
-      <p style="margin: 0; font-weight: bold;">Git <span style="float: right;">40%</span></p>
-      <div style="background-color: #444; border-radius: 5px; height: 10px; width: 100%; position: relative; overflow: hidden;">
-        <div style="background-color: #8be9fd; height: 100%; width: 40%;"></div>
-      </div>
-    </div>
-  </div>
-</div>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Gyshro&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyshro&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
