@@ -79,11 +79,47 @@ Me chamo Vicente, tenho 19 anos e sou natural de Minas Gerais. Tenho ensino méd
     src="https://github-readme-stats.vercel.app/api?username=RayerTsu&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyshro&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div style="background-color: #161b22; padding: 20px; border-radius: 10px; color: white; width: 300px; font-family: Arial, sans-serif;">
+  <h4 style="color: #ff6ec7; text-align: center; margin-bottom: 20px;">Tecnologias</h4>
+  
+  <!-- CSS -->
+  <div>
+    <span style="color: #7d4eff; font-weight: bold;">● CSS:</span> 100%
+    <div style="background-color: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 5px 0;">
+      <div style="width: 100%; background-color: #7d4eff; height: 100%;"></div>
+    </div>
+  </div>
+  
+  <!-- HTML -->
+  <div>
+    <span style="color: #ff5733; font-weight: bold;">● HTML:</span> 100%
+    <div style="background-color: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 5px 0;">
+      <div style="width: 100%; background-color: #ff5733; height: 100%;"></div>
+    </div>
+  </div>
+  
+  <!-- Python -->
+  <div>
+    <span style="color: #44cc44; font-weight: bold;">● Python:</span> 90%
+    <div style="background-color: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 5px 0;">
+      <div style="width: 90%; background-color: #44cc44; height: 100%;"></div>
+    </div>
+  </div>
+  
+  <!-- Java -->
+  <div>
+    <span style="color: #ffcc00; font-weight: bold;">● Java:</span> 70%
+    <div style="background-color: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 5px 0;">
+      <div style="width: 70%; background-color: #ffcc00; height: 100%;"></div>
+    </div>
+  </div>
+  
+  <!-- Git -->
+  <div>
+    <span style="color: #666666; font-weight: bold;">● Git:</span> 40%
+    <div style="background-color: #333; height: 10px; border-radius: 5px; overflow: hidden; margin: 5px 0;">
+      <div style="width: 40%; background-color: #666666; height: 100%;"></div>
+    </div>
+  </div>
+</div>
 
-</p>
